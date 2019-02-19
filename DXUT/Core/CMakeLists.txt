@@ -1,0 +1,1 @@
+add_library(DXUT DXUT.cpp DXUTDevice9.cpp DXUTDevice11.cpp DXUTmisc.cpp)
